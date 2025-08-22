@@ -1,0 +1,10 @@
+.caixa {
+  width: 200px;
+  height: 200px;
+  background-color: #d87093; /* rosa */
+  border-width: 10px;        /* largura da borda */
+  border-style: ridge;       /* estilo da borda */
+  border-color: gray;        /* cor da borda */
+  margin: 20px;
+}
+
